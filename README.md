@@ -3,16 +3,15 @@
 ### Hi there 👋
 
 ### About me
-I am a software engineer and industrial automation technician.
+- I am a software engineer and industrial automation technician.
 
+- I am currently self-employed developing software in commercial and industrial areas.
+***
 
-I am currently self-employed developing software in commercial and industrial areas.
+### Work tools:
 
-
-For application development I use:
-
-- Front-end
-    -
+- **_Front-end_**
+    ```
     HTML . CSS . JAVASCRIPT
 
     TYPESCRIPT
@@ -20,10 +19,10 @@ For application development I use:
     React with NextJS
 
     React with VITE
+    ```
 
-
-- Back-end
-    -
+- **_Back-end_**
+    ```
     NODE JS
 
     PHP
@@ -33,14 +32,14 @@ For application development I use:
     PYTHON
 
     Django
+    ```
 
-
-- Mobile
-    -
+- **_Mobile_**
+    ```
     React Native
 
     Kotlin
-
+    ```
 <!--
 **hebervaldias/hebervaldias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
