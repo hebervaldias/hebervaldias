@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 
+### About me
 I am a software engineer and industrial automation technician.
 
 
