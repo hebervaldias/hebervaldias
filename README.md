@@ -1,14 +1,14 @@
 # Heberval Dias
 
-### Hi there / olá 👋
+### Hi there 👋
 
-### About me / Sobre mim
+### About me
 - I am a software engineer and industrial automation technician.
 
 - I am currently self-employed developing software in commercial and industrial areas.
 ***
 
-### Work tools / Ferramentas de trabalho:
+### Work tools:
 
 - **_Front-end_** - 💻
   
@@ -41,7 +41,7 @@
     ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 ***
 
-### Where to find me / Onde me encontrar
+### Where to find me
   - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/hebervaldias)
     
 <!--
