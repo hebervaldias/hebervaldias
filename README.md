@@ -1,14 +1,14 @@
 # Heberval Dias
 
-### Hi there 👋
+### Hi there / olá 👋
 
-### About me
+### About me / Sobre mim
 - I am a software engineer and industrial automation technician.
 
 - I am currently self-employed developing software in commercial and industrial areas.
 ***
 
-### Work tools:
+### Work tools / Ferramentas de trabalho:
 
 - **_Front-end_** - 💻
   
@@ -39,6 +39,10 @@
     ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
     ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
+***
+
+### Where to find me / Onde me encontrar
+  - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/hebervaldias)
     
 <!--
 **hebervaldias/hebervaldias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
